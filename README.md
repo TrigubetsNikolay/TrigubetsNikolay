@@ -2,7 +2,7 @@ Hello! 👋 I'm Trigubets Nikolay
 
 🚀 Blockchain Enthusiast & Validator
 
-I'm passionate about blockchain technology, and since 2022, I've been actively involved in cryptocurrency and specializing in blockchain validation. My experience includes managing nodes for a variety of projects, showcasing my versatility in handling different blockchain ecosystems. Some of the notable projects I've worked with include Sui, SSV, Kyve, Humanode, Aptos, Sei, Stride, IronFish, Quai, Massa, and Aleo.
+I'm passionate about blockchain technology, and since 2022, I've been actively involved in cryptocurrency and specializing in blockchain validation. My experience includes managing nodes for a variety of projects, showcasing my versatility in handling different blockchain ecosystems. Some of the notable projects I've worked with include Aleo, Massa, Quai, IronFish, Stride, Sei, Aptos, Humanode, Kyve, SSV, and Sui.
 
 Key Highlights 🌟
 
